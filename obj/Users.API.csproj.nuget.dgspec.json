@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API\\Users.API\\Users.API.csproj": {}
+    "C:\\Users\\godme\\Source\\Repos\\ApiEntity\\Users.API.csproj": {}
   },
   "projects": {
-    "E:\\API\\Users.API\\Users.API.csproj": {
+    "C:\\Users\\godme\\Source\\Repos\\ApiEntity\\Users.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API\\Users.API\\Users.API.csproj",
+        "projectUniqueName": "C:\\Users\\godme\\Source\\Repos\\ApiEntity\\Users.API.csproj",
         "projectName": "Users.API",
-        "projectPath": "E:\\API\\Users.API\\Users.API.csproj",
-        "packagesPath": "C:\\Users\\AMIAUN\\.nuget\\packages\\",
-        "outputPath": "E:\\API\\Users.API\\obj\\",
+        "projectPath": "C:\\Users\\godme\\Source\\Repos\\ApiEntity\\Users.API.csproj",
+        "packagesPath": "C:\\Users\\godme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\godme\\Source\\Repos\\ApiEntity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\AMIAUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\godme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
